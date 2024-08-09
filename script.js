@@ -35,6 +35,8 @@ fetch(jsonFile)
             </div>
         `;
     });
+
+    //GETTING RADIO BUTTONS 
     const radioBtns = document.querySelectorAll(".product-card_btn-radio");
     document.querySelectorAll(".product-card_color").forEach(pcc => pcc.firstElementChild.classList.add("selected"));
 
