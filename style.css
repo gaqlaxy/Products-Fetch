@@ -21,8 +21,8 @@
 }
 body{
     font-family: Raleway, sans-serif;
-    display: flex;
-    justify-content: center;
+    /* display: flex; */
+    /* justify-content: center; */
     min-height: 100vh;
 }
 section{

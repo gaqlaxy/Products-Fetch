@@ -118,5 +118,20 @@
 				"color": "#bc6c25"
 			}
 		]
+	},
+	{
+		"id": 9,
+		"name": "Poonam Sarees",
+		"price": "499",
+		"images": [
+			{
+				"url": "./Images/9.jpg",
+				"color": "#ffb703"
+			},
+			{
+				"url": "./Images/6.jpg",
+				"color": "#bc6c25"
+			}
+		]
 	}
 ]
