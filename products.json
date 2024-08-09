@@ -1,0 +1,64 @@
+[
+	{
+		"id": 1,
+		"name": "Banana Pith Sarees",
+		"price": "899",
+		"images": [
+			{
+				"url": "./Images/8.jpg",
+				"color": "#272727"
+			},
+			{
+				"url": "./Images/7.jpg",
+				"color": "#23284E"
+			}
+		]
+	},
+
+	{
+		"id": 2,
+		"name": "Cotton Silk Sarees",
+		"price": "699",
+		"images": [
+			{
+				"url": "./Images/9.jpg",
+				"color": "#4F8196"
+			}
+		]
+	},
+
+	{
+		"id": 3,
+		"name": "Kanchipuram Silk Sarees",
+		"price": "1399",
+		"images": [
+			{
+				"url": "./Images/2.jpg",
+				"color": "#E8E8E8"
+			},
+			{
+				"url": "./Images/3.jpg",
+				"color": "#FAB364"
+			},
+			{
+				"url": "./Images/4.jpg",
+				"color": "#F2CFCD"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "Tusser Silk Sarees",
+		"price": "499",
+		"images": [
+			{
+				"url": "./Images/5.jpg",
+				"color": "#2C88B3"
+			},
+			{
+				"url": "./Images/6.jpg",
+				"color": "#505654"
+			}
+		]
+	}
+]
