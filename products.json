@@ -6,11 +6,11 @@
 		"images": [
 			{
 				"url": "./Images/8.jpg",
-				"color": "#272727"
+				"color": "#780000"
 			},
 			{
 				"url": "./Images/7.jpg",
-				"color": "#23284E"
+				"color": "#1b263b"
 			}
 		]
 	},
@@ -22,7 +22,7 @@
 		"images": [
 			{
 				"url": "./Images/9.jpg",
-				"color": "#4F8196"
+				"color": "#283618"
 			}
 		]
 	},
@@ -34,15 +34,15 @@
 		"images": [
 			{
 				"url": "./Images/2.jpg",
-				"color": "#E8E8E8"
+				"color": "#c1121f"
 			},
 			{
 				"url": "./Images/3.jpg",
-				"color": "#FAB364"
+				"color": "#023047"
 			},
 			{
 				"url": "./Images/4.jpg",
-				"color": "#F2CFCD"
+				"color": "#ccd5ae"
 			}
 		]
 	},
@@ -53,11 +53,11 @@
 		"images": [
 			{
 				"url": "./Images/5.jpg",
-				"color": "#2C88B3"
+				"color": "#ffb703"
 			},
 			{
 				"url": "./Images/6.jpg",
-				"color": "#505654"
+				"color": "#bc6c25"
 			}
 		]
 	}
