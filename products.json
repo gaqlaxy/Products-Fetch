@@ -14,7 +14,6 @@
 			}
 		]
 	},
-
 	{
 		"id": 2,
 		"name": "Cotton Silk Sarees",
@@ -26,7 +25,6 @@
 			}
 		]
 	},
-
 	{
 		"id": 3,
 		"name": "Kanchipuram Silk Sarees",
@@ -53,6 +51,81 @@
 		"images": [
 			{
 				"url": "./Images/5.jpg",
+				"color": "#ffb703"
+			},
+			{
+				"url": "./Images/6.jpg",
+				"color": "#bc6c25"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "Silk Sarees",
+		"price": "499",
+		"images": [
+			{
+				"url": "./Images/6.jpg",
+				"color": "#ffb703"
+			},
+			{
+				"url": "./Images/6.jpg",
+				"color": "#bc6c25"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"name": "Sarees",
+		"price": "499",
+		"images": [
+			{
+				"url": "./Images/7.jpg",
+				"color": "#ffb703"
+			},
+			{
+				"url": "./Images/6.jpg",
+				"color": "#bc6c25"
+			}
+		]
+	},
+	{
+		"id": 7,
+		"name": "Kanchipuram Sarees",
+		"price": "499",
+		"images": [
+			{
+				"url": "./Images/9.jpg",
+				"color": "#ffb703"
+			},
+			{
+				"url": "./Images/6.jpg",
+				"color": "#bc6c25"
+			}
+		]
+	},
+	{
+		"id": 8,
+		"name": "Poonam Sarees",
+		"price": "499",
+		"images": [
+			{
+				"url": "./Images/9.jpg",
+				"color": "#ffb703"
+			},
+			{
+				"url": "./Images/6.jpg",
+				"color": "#bc6c25"
+			}
+		]
+	},
+	{
+		"id": 9,
+		"name": "Linen Sarees",
+		"price": "499",
+		"images": [
+			{
+				"url": "./Images/1.jpg",
 				"color": "#ffb703"
 			},
 			{
